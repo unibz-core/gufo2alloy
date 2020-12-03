@@ -1,8 +1,8 @@
 # gufo2alloy
 
-Download RapidMiner 9.7 (studio or educational, no payment is needed) or later
-
-Run RapidMiner, go to Settings -> Preferences -> Start-Up
+* Download RapidMiner 9.7 or later (studio or educational, no payment is needed) 
+* Run RapidMiner, 
+** go to Settings -> Preferences -> Start-Up
 
 Enable "Initialize Extensions" and copy the "Extensions Directory" path
 

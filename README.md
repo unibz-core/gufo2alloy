@@ -2,7 +2,7 @@
 
 * Download RapidMiner 9.7 or later (studio or educational, no payment is needed) 
 * Run RapidMiner, 
-** go to Settings -> Preferences -> Start-Up
+* * go to Settings -> Preferences -> Start-Up
 
 Enable "Initialize Extensions" and copy the "Extensions Directory" path
 

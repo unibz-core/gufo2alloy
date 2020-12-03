@@ -18,11 +18,11 @@
 * RapidMiner Python Scripting Extension
 * Install Python for every Process
 * Install these libraries:
-** bs4
-** pathlib
-** request
-** pandas
-** time
-** bs4
-** rdflib
-** ontospy
+* * bs4
+* * pathlib
+* * request
+* * pandas
+* * time
+* * bs4
+* * rdflib
+* * ontospy
